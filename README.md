@@ -13,4 +13,18 @@ I’m passionate about **programming, problem-solving, and building practical so
 
 ---
 
-⭐️ *“Always learning, always building.”*  
+⭐️ *“Always learning, always building.”*
+# Changes:
+### Ordered List:  
+1. Learn C++  
+2. Practice Problem-Solving  
+3. Build Projects  
+
+### My Skills:  
+- Web Development  
+- Programming in C++  
+- Leadership  
+- Teamwork  
+
+**This is a Bolded sentence**
+_This is an italic sentence_
